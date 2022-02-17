@@ -1,3 +1,3 @@
 # Task 1
 
-*README* for first task `0x01-git` 
+This is the *README* for first task `0x01-git` 
